@@ -1,9 +1,9 @@
 <?php
 
-namespace RyanChandler\Comments\Database\Factories;
+namespace UnrulyNatives\Comments\Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use RyanChandler\Comments\Models\Comment;
+use UnrulyNatives\Comments\Models\Comment;
 
 class CommentFactory extends Factory
 {
