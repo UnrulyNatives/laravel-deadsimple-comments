@@ -35,13 +35,13 @@
     },
     "autoload": {
         "psr-4": {
-            "RyanChandler\\Comments\\": "src",
-            "RyanChandler\\Comments\\Database\\Factories\\": "database/factories"
+            "UnrulyNatives\\Comments\\": "src",
+            "UnrulyNatives\\Comments\\Database\\Factories\\": "database/factories"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "RyanChandler\\Comments\\Tests\\": "tests"
+            "UnrulyNatives\\Comments\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -60,10 +60,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "RyanChandler\\Comments\\CommentsServiceProvider"
+                "UnrulyNatives\\Comments\\CommentsServiceProvider"
             ],
             "aliases": {
-                "Comments": "RyanChandler\\Comments\\Facades\\Comments"
+                "Comments": "UnrulyNatives\\Comments\\Facades\\Comments"
             }
         }
     },
