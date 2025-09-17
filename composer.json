@@ -1,12 +1,12 @@
 {
-    "name": "ryangjchandler/laravel-comments",
+    "name": "unrulynatives/laravel-deadsimple-comments",
     "description": "A dead-simple comments package for Laravel.",
     "keywords": [
         "ryangjchandler",
         "laravel",
         "laravel-comments"
     ],
-    "homepage": "https://github.com/ryangjchandler/laravel-comments",
+    "homepage": "https://github.com/UnrulyNatives/laravel-deadsimple-comments",
     "license": "MIT",
     "authors": [
         {
