@@ -1,6 +1,6 @@
 <?php
 
-namespace RyanChandler\Comments;
+namespace UnrulyNatives\Comments;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
