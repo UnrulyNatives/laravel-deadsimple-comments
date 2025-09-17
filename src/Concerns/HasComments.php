@@ -1,11 +1,11 @@
 <?php
 
-namespace RyanChandler\Comments\Concerns;
+namespace UnrulyNatives\Comments\Concerns;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\MorphMany;
 use Illuminate\Support\Facades\Auth;
-use RyanChandler\Comments\Contracts\IsComment;
+use UnrulyNatives\Comments\Contracts\IsComment;
 
 /**
  * @mixin \Illuminate\Database\Eloquent\Model
